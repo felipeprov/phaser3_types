@@ -1,10 +1,9 @@
 {
-  "name": "phaser_types",
+  "name": "felipeprov/phaser",
   "version": "0.0.1",
   "description": "Phaser typescript definitions",
-  "main": "phaser.d.ts",
+  "main": "index.d.ts",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
