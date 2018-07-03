@@ -1,0 +1,23 @@
+{
+  "name": "phaser_types",
+  "version": "0.0.1",
+  "description": "Phaser typescript definitions",
+  "main": "phaser.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeprov/phaser3_types.git"
+  },
+  "keywords": [
+    "phaser",
+    "typescript"
+  ],
+  "author": "Felipe Provenzano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipeprov/phaser3_types/issues"
+  },
+  "homepage": "https://github.com/felipeprov/phaser3_types#readme"
+}
