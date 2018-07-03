@@ -1,5 +1,5 @@
 {
-  "name": "felipeprov/phaser",
+  "name": "phaser3_types",
   "version": "0.0.1",
   "description": "Phaser typescript definitions",
   "main": "index.d.ts",
